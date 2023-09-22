@@ -1,6 +1,7 @@
-/build/
+build/
 /build/main_floppy.img
 /build/main.bin
+gitignore
 
 # Prerequisites
 *.d
