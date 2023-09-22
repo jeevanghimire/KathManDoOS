@@ -1,3 +1,7 @@
+build/
+/build/main_floppy.img
+/build/main.bin
+
 # Prerequisites
 *.d
 
@@ -51,8 +55,3 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
-
-build/
-.gitignore
-main_floppy.img
-main.bin
